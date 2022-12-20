@@ -1,0 +1,24 @@
+
+.MuiFormHelperText-root{
+
+  color:red !important
+}
+
+.profile{
+
+  color: #BCA568 !important;
+}
+
+.typography{
+  color:white !important;
+  font-size: 15px !important; 
+}
+
+.tabs:hover{
+  background-color: hsl(0, 22%, 96%) !important;
+  color: black !important
+}
+
+.txt-clr{
+  color : black !important;
+}
